@@ -1,0 +1,4 @@
+[svd2rust]
+input = "./r7fa6m5bh_fixed.svd"
+output = "src"
+target = "cortex-m"
